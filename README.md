@@ -6,3 +6,6 @@ Here is the code of my e-commerce website, developed for a school project at Sup
  git link : git@github.com:nadir9292/kingdhome_front.git
 
 ## Link to the API : https://kingdhome-api.herokuapp.com/
+
+git link : https://git.heroku.com/kingdhome-api.git
+
